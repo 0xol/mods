@@ -1,1 +1,0 @@
-forge 1.18.2 40.1.73 required
